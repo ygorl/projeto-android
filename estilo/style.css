@@ -68,7 +68,7 @@ header > p {
     padding-right: 10px;    /* Distância do texto para as bordas */
     padding-left: 10px;
     margin: auto;
-    margin-bottom: 30px;
+    padding-bottom: 50px;
     text-shadow: 4px 3px 10px rgba(0, 0, 0, 0.473);
 }
 
